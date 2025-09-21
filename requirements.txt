@@ -1,4 +1,2 @@
 streamlit
 nltk
-re
-collection
